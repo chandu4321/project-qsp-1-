@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-31T20:07:12 IST" name="Suite" finished-at="2024-01-31T20:08:33 IST" duration-ms="81109">
+    <groups>
+      <group name="FT">
+        <method signature="TS_01.launchDemo()[pri:0, instance:batchExceutation.TS_01@1356d4d4]" name="launchDemo" class="batchExceutation.TS_01"/>
+        <method signature="TS_04.launchSwiggy()[pri:0, instance:batchExceutation.TS_04@3c947bc5]" name="launchSwiggy" class="batchExceutation.TS_04"/>
+        <method signature="TS_07.launchBookMyShow()[pri:0, instance:batchExceutation.TS_07@1329eff]" name="launchBookMyShow" class="batchExceutation.TS_07"/>
+        <method signature="TS_10.launchNaukri()[pri:0, instance:batchExceutation.TS_10@5552768b]" name="launchNaukri" class="batchExceutation.TS_10"/>
+      </group> <!-- FT -->
+    </groups>
+    <test started-at="2024-01-31T20:07:12 IST" name="Test" finished-at="2024-01-31T20:08:33 IST" duration-ms="81109">
+      <class name="batchExceutation.TS_04">
+        <test-method signature="launchSwiggy()[pri:0, instance:batchExceutation.TS_04@3c947bc5]" started-at="2024-01-31T20:07:12 IST" name="launchSwiggy" finished-at="2024-01-31T20:08:33 IST" duration-ms="80507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSwiggy -->
+      </class> <!-- batchExceutation.TS_04 -->
+      <class name="batchExceutation.TS_03">
+        <test-method signature="launchZomato()[pri:0, instance:batchExceutation.TS_03@609db43b]" started-at="2024-01-31T20:07:12 IST" name="launchZomato" finished-at="2024-01-31T20:08:33 IST" duration-ms="80263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchZomato -->
+      </class> <!-- batchExceutation.TS_03 -->
+      <class name="batchExceutation.TS_06">
+        <test-method signature="launchPizza()[pri:0, instance:batchExceutation.TS_06@6497b078]" started-at="2024-01-31T20:07:12 IST" name="launchPizza" finished-at="2024-01-31T20:08:33 IST" duration-ms="80523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPizza -->
+      </class> <!-- batchExceutation.TS_06 -->
+      <class name="batchExceutation.TS_05">
+        <test-method signature="launchPuma()[pri:0, instance:batchExceutation.TS_05@41c2284a]" started-at="2024-01-31T20:07:12 IST" name="launchPuma" finished-at="2024-01-31T20:08:32 IST" duration-ms="79930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPuma -->
+      </class> <!-- batchExceutation.TS_05 -->
+      <class name="batchExceutation.TS_10">
+        <test-method signature="launchNaukri()[pri:0, instance:batchExceutation.TS_10@5552768b]" started-at="2024-01-31T20:07:12 IST" name="launchNaukri" finished-at="2024-01-31T20:08:33 IST" duration-ms="80368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaukri -->
+      </class> <!-- batchExceutation.TS_10 -->
+      <class name="batchExceutation.TS_02">
+        <test-method signature="launchDream11()[pri:0, instance:batchExceutation.TS_02@55f616cf]" started-at="2024-01-31T20:07:12 IST" name="launchDream11" finished-at="2024-01-31T20:08:33 IST" duration-ms="80501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDream11 -->
+      </class> <!-- batchExceutation.TS_02 -->
+      <class name="batchExceutation.TS_01">
+        <test-method signature="launchDemo()[pri:0, instance:batchExceutation.TS_01@1356d4d4]" started-at="2024-01-31T20:07:12 IST" name="launchDemo" finished-at="2024-01-31T20:08:33 IST" duration-ms="80398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDemo -->
+      </class> <!-- batchExceutation.TS_01 -->
+      <class name="batchExceutation.TS_08">
+        <test-method signature="launchMeesho()[pri:0, instance:batchExceutation.TS_08@c03cf28]" started-at="2024-01-31T20:07:12 IST" name="launchMeesho" finished-at="2024-01-31T20:08:33 IST" duration-ms="80335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchMeesho -->
+      </class> <!-- batchExceutation.TS_08 -->
+      <class name="batchExceutation.TS_07">
+        <test-method signature="launchBookMyShow()[pri:0, instance:batchExceutation.TS_07@1329eff]" started-at="2024-01-31T20:07:12 IST" name="launchBookMyShow" finished-at="2024-01-31T20:08:32 IST" duration-ms="79986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBookMyShow -->
+      </class> <!-- batchExceutation.TS_07 -->
+      <class name="batchExceutation.TS_09">
+        <test-method signature="launchCricbuzz()[pri:0, instance:batchExceutation.TS_09@53aad5d5]" started-at="2024-01-31T20:07:12 IST" name="launchCricbuzz" finished-at="2024-01-31T20:08:33 IST" duration-ms="81052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCricbuzz -->
+      </class> <!-- batchExceutation.TS_09 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
